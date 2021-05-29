@@ -2,7 +2,7 @@
 
 **Frontend developer javascript and react** <br>
 
- 📚 I'm currently doing some projects for myself, D-Safe developer.<br><br>
+ 📚 I'm currently doing some projects for myself, <a href="https://discordsafe.com/">D-Safe</a> developer.<br><br>
  💻 The technologies that i'm good working at:
  
   - HTML5.

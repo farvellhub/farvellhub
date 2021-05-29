@@ -19,7 +19,7 @@
   - BBDD relationals and NOSql
   
   
-💛 I L<3ve JavaScript.<br><br
+💛 I L<3ve JavaScript.<br><br>
  
  ## Objectives 2021
 - [ ] Get deep undestanding of backend.

@@ -1,4 +1,4 @@
-# 👋 Hi!, I'm Farvell :flag_es:.
+# 👋 Hi!, I'm Farvell 🇪🇸.
 
 **Frontend developer javascript and react** <br>
 

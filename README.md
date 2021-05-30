@@ -23,4 +23,4 @@
  
  ## Objectives 2021
 - [ ] Get deep understanding of backend.
-- [ ] Get my first job in IT.
+- [ ] Get my first job on IT.

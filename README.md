@@ -22,5 +22,5 @@
 💛 I L<3ve JavaScript.<br><br>
  
  ## Objectives 2021
-- [ ] Get deep undestanding of backend.
+- [ ] Get deep understanding of backend.
 - [ ] Get my first job in IT.

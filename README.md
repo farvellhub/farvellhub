@@ -8,7 +8,7 @@
   - HTML5.
   - CSS3, Sccs.
   - JavaScript ES7.
-  - Webpack4, post-css.
+  - Webpack5, post-css.
   - React / ReactDOM / React Route.
   - Consume api with ajax/asynchronous functions.
   

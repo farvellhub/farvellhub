@@ -6,7 +6,7 @@
  💻 The technologies that i'm good working at:
  
   - HTML5.
-  - CSS3, Sccs.
+  - CSS3, Sccs, Tailwind.
   - JavaScript ES7.
   - Webpack5, post-css.
   - React / ReactDOM / React Route.

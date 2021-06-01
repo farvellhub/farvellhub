@@ -1,26 +1,24 @@
 # 👋 Hi!, I'm Farvell 🇪🇸.
 
-**Frontend developer javascript and react** <br>
+**Frontend javascript and react developer.** <br>
 
  📚 I'm currently doing some projects for myself, <a href="https://discordsafe.com/">D-Safe</a> developer.<br><br>
  💻 The technologies that i'm good working at:
  
   - HTML5.
   - CSS3, Sccs, Tailwind.
-  - JavaScript ES7.
+  - JavaScript ES7, AJAX.
   - Webpack5, post-css.
   - React / ReactDOM / React Route.
-  - Consume api with ajax/asynchronous functions.
-  
   
   💪 Learning:
   
   - Websockets and http requests.
-  - BBDD relationals and NOSql
+  - Relational databases and NOSql.
   
   
 💛 I L<3ve JavaScript.<br><br>
  
- ## Objectives 2021
+ ## Objectives 2021.
 - [ ] Get deep understanding of backend.
 - [ ] Get my first job on IT.

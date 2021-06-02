@@ -6,7 +6,7 @@
  💻 The technologies that i'm good working at:
  
   - HTML5 API's.
-  - CSS3, Sccs, Tailwind.
+  - CSS3, SASS, TailwindCSS.
   - JavaScript ES7, AJAX.
   - Webpack5, post-css.
   - React.js / Next.js.

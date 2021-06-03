@@ -7,7 +7,7 @@
  
   - HTML5 API's.
   - CSS3, SASS, TailwindCSS.
-  - JavaScript ES7, TypeScript.
+  - JavaScript ES9, TypeScript.
   - Webpack5, post-css.
   - React.js / Next.js.
   

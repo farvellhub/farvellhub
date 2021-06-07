@@ -13,8 +13,9 @@
   
   💪 Learning:
   
-  - Node.js / Express.
-  - MongoDB / MySQL.
+  - Express.
+  - Nest.js
+  - MongoDB.
   
   
 💛 I L<3ve JavaScript.<br><br>

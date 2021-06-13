@@ -1,25 +1,4 @@
-# 👋 Hi!, I'm Farvell 🇪🇸.
+# 👋 Hi!, I'm Farvell **Frontend javascript and react developer.** <br>
 
-**Frontend javascript and react developer.** <br>
-
- 📚 I'm currently doing some projects for myself, <a href="https://discordsafe.com/">D-Safe</a> developer.<br><br>
- 💻 The technologies that i'm good working at:
- 
-  - HTML5 API's.
-  - CSS3, SASS, TailwindCSS.
-  - JavaScript ES9, TypeScript.
-  - Webpack5, post-css.
-  - React.js / Next.js.
-  
-  💪 Learning:
-  
-  - Express.
-  - Nest.js
-  - MongoDB.
-  
-  
-💛 I L<3ve JavaScript.<br><br>
- 
- ## Objectives 2021.
-- [ ] Get deep understanding of backend.
-- [ ] Get my first job on IT.
+ 📚 I'm active collaborator on <a href="https://discordsafe.com/">Discord D-Safe bot</a> and other web projects.<br><br>
+ 💻 The technologies that I L💛ve working with are HTML5, CSS3, SASS, TailwindCSS, JavaScript / TypeScript and Next.js.

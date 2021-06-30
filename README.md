@@ -5,4 +5,4 @@
  💻 The technologies that I L💛ve working with are HTML5, CSS3, SASS, TailwindCSS, JavaScript / TypeScript and Next.js.
  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=farvellhub&count_private=true)](https://github.com/farvellhub/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=farvellhub&show_icons=true)](https://github.com/farvellhub/github-readme-stats)

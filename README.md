@@ -1,7 +1,7 @@
 # 👋 Hi!, I'm Farvell 
 **Frontend javascript/typescript and react developer.** <br>
 
- 📚 I'm active collaborator on <a href="https://3dsmaps.com/">3dsmaps.com</a>.<br><br>
+ 📚 I was collaborator on <a href="https://3dsmaps.com/">3dsmaps.com</a>.<br><br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farvellhub&show_icons=true&theme=dracula)](https://github.com/farvellhub/github-readme-stats)
 

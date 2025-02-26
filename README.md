@@ -1,5 +1,5 @@
 # 👋 Hi!, I'm Farvell 
-**Frontend javascript/typescript and react developer.** <br>
+**Full-stack javascript/typescript developer.** <br>
 
  📚 I was collaborator on <a href="https://3dsmaps.com/">3dsmaps.com</a> and <a href="https://discordsafe.com/docs/">D-Safe.<br><br>
 
